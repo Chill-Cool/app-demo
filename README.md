@@ -1,6 +1,6 @@
 # lours-app
 
-###This app requires MongoDB, please install MongoDB and create a new collection 'product'
+### This app requires MongoDB, please install MongoDB and create a new collection 'products' under your own database (any name).
 
 ## Project setup
 ```
