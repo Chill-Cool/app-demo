@@ -1,2 +1,0 @@
-npm i vue-text-mask --save
-npm i text-mask-addons --save
