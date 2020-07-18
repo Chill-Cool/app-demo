@@ -1,4 +1,4 @@
-# lours-app
+# app-demo
 
 This app requires MongoDB, please install MongoDB and create a new collection `products` under your own database (any name).
 
