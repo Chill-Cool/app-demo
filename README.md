@@ -1,6 +1,6 @@
 # lours-app
 
-This app requires MongoDB, please install MongoDB and create a new collection 'products' under your own database (any name).
+This app requires MongoDB, please install MongoDB and create a new collection `'products'` under your own database (any name).
 
 ## Project setup
 ```
@@ -11,7 +11,9 @@ npm install
 ```
 cd ./api
 npm run start
-cd ..
+```
+Open a new command line interface
+```
 npm run serve
 ```
 
