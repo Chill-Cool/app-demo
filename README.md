@@ -1,5 +1,7 @@
 # lours-app
 
+###This app requires MongoDB, please install MongoDB and create a new collection 'product'
+
 ## Project setup
 ```
 npm install
@@ -7,12 +9,10 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+cd ./api
+npm run start
+cd ..
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Lints and fixes files
